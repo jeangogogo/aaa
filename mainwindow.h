@@ -20,5 +20,6 @@ private:
 
 
     int a;
+    int b;
 };
 #endif // MAINWINDOW_H
